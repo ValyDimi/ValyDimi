@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valy Dimitriu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and automated testing
 - 💞️ I’m looking to collaborate on small learning beginner projects
 - 📫 How to reach me: valydimitriu@gmail.com
 - 😄 Pronouns: ...
